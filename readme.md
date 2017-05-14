@@ -1,2 +1,5 @@
-webpack-dev-server => build for development
-webpack -p => build for productions
+npm i
+
+start: webpack-dev-server
+
+build: webpack -p
