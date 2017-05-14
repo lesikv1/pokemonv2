@@ -1,0 +1,33 @@
+div.container{
+  width: auto;
+}
+
+div.heads {
+  width: auto;
+  height: 42px;
+  background: #3b5998;
+}
+
+a.main,
+a.pokemonlist {
+  color: aliceblue;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  background-color: #042161;
+}
+
+.nav{
+  width: 80%;
+  margin: auto;
+}
+
+li.main{
+  background: #3b5998;
+
+}
+
+li.main:hover {
+  background: #3b5998;
+}
